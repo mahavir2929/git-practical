@@ -4,3 +4,4 @@ line after first commit
 =======
 this is second line
 >>>>>>> b3fe5797ba2823315b27a54d54143e0162fcd006
+added last line
